@@ -1,6 +1,6 @@
 import React from 'react'
 
-const contacts = () => {
+const Contacts = () => {
   return (
     <div id="contact" className='max-w-[1040px] m-auto md:pl-20 py-16'>
         <h1 className='font-bold text-center text-4xl py-4 '>Contacts</h1>
@@ -37,4 +37,4 @@ const contacts = () => {
   )
 }
 
-export default contacts
+export default Contacts
